@@ -11,7 +11,7 @@ You can reach me in telegram: @rxskova
   <summary>
     Education
   </summary>
-  - PhD studies in Mathematical Modeling, SPbGASU, 2020–2022 (left in 2022, moved away)
-  - MSc in Applied Mathematics and Computer Science, SPbGASU, 2020
-  - BSc in Applied Mathematics and Computer Science, SPbGASU, 2018
+  1. BSc in Applied Mathematics and Computer Science, SPbGASU, 2018
+  2. MSc in Applied Mathematics and Computer Science, SPbGASU, 2020
+  3. PhD studies in Mathematical Modeling, SPbGASU, 2020–2022 (left in 2022, moved away)
 </details>
